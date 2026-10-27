@@ -1,7 +1,9 @@
-<h1 align="center"><a href="https://archima.xyz">xmb9</a></h1>
+<h1 align="center"><a href="https://malborge.cfd">xmb9</a></h1>
 <p align="center"><strong>foss advocate, bash addict, unix lover. 16.<h6 align="center">
 <p align="center">
-    	<a href="https://discord.com/users/988950574387068968"><img width="5%" src="https://github.com/user-attachments/assets/32ea7e08-0de3-4d95-b19b-3a0ef4cef049" alt="Discord"></a>
+    	<a href="https://discord.com/users/1363536932994285812">💬</a>
     	&nbsp;&nbsp;&nbsp;
-    	<a href="https://archima.xyz"><img width="4%" src="https://github.com/user-attachments/assets/e56e9e34-0ab6-442a-bb03-938d98706ece" alt="Website"></a>
+    	<a href="https://malborge.cfd">🌐</a>
+        <br><br>
+        website not up yet <sub><img width="22" height="22" alt=":(" src="https://github.com/user-attachments/assets/1309a8f9-0dbb-4f18-9d97-fc4fff58bc89"/></sub>
 </p>
